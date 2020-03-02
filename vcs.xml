@@ -30,6 +30,14 @@
           <option name="url" value="http://dev-server-gitlab.fjyf.com/server/doc-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-server-gitlab.fjyf.com/wangjing/mms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-server-gitlab.fjyf.com" />
+          <option name="userName" value="cjiankai@sina.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
