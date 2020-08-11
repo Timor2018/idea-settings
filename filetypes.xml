@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Shanghai" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
