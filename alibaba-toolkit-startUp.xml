@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/IdeaProjects/flowable" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/gb/pms" startUpFlag="FIRST" />
+    <entry projectPath="D:/IdeaProjects/jaf-user-center" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/sign-platform" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/std/pms" startUpFlag="FIRST" />
     <entry projectPath="D:/IdeaProjects/yf/flowable" startUpFlag="FIRST" />
